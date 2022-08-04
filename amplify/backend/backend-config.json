@@ -1,1 +1,9 @@
-{}
+{
+  "function": {
+    "layerissuetestlayer1": {
+      "providerPlugin": "awscloudformation",
+      "service": "LambdaLayer",
+      "build": true
+    }
+  }
+}

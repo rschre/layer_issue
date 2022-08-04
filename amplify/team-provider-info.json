@@ -10,6 +10,14 @@
       "StackName": "amplify-layerissue-dev-165121",
       "StackId": "arn:aws:cloudformation:eu-central-1:539322690986:stack/amplify-layerissue-dev-165121/e35de680-1404-11ed-9d0d-0a261b2a3efe",
       "AmplifyAppId": "dduaoblfggudw"
+    },
+    "categories": {
+      "function": {
+        "layerissuetestlayer1": {
+          "deploymentBucketName": "amplify-layerissue-dev-165121-deployment",
+          "s3Key": "amplify-builds/layerissuetestlayer1-LambdaLayerVersion7acfed6a-build.zip"
+        }
+      }
     }
   }
 }
